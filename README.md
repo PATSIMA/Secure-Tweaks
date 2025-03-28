@@ -2,9 +2,7 @@
 
 ### Primeros Pasos
 
-Comience explorando los ajustes y sus explicaciones en nuestra sección dedicada:
-https://github.com/PATSIMA/Secure-Tweaks/tree/main/Win32PrioritySeparation
-
+Comience explorando los ajustes y sus explicaciones en nuestra sección de [Win32PrioritySeparation](./Win32PrioritySeparation).
 Aquí encontrará explicaciones detalladas y referencias para nuestras optimizaciones.
 
 ## Descripción General
