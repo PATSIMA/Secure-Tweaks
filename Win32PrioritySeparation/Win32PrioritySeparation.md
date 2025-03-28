@@ -32,3 +32,8 @@ Cada valor combina tres parámetros:
 
 - [Guru3D Forums](https://forums.guru3d.com/threads/faq-of-the-software-operating-systems-section.155424/#post-1451631)
 - [UDC Computer Science Documentation](https://csit.udc.edu/~byu/UDC3529315/WindowsInternals-4e.pdf)
+
+## Descargas
+- [24-Hex](https://github.com/PATSIMA/Secure-Tweaks/blob/main/Win32PrioritySeparation/24-Hex.reg)
+- [26-Hex](https://github.com/PATSIMA/Secure-Tweaks/blob/main/Win32PrioritySeparation/26-Hex.reg)
+- [2A-Hex](https://github.com/PATSIMA/Secure-Tweaks/blob/main/Win32PrioritySeparation/2A-Hex.reg)
