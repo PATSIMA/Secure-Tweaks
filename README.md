@@ -2,8 +2,7 @@
 
 ### Primeros Pasos
 
-Comience explorando los ajustes y sus explicaciones en nuestra sección de [Win32PrioritySeparation](./Win32PrioritySeparation).
-
+Comience explorando los ajustes y sus explicaciones en nuestra sección de [Win32PrioritySeparation](./Win32PrioritySeparation/Win32PrioritySeparation.md).
 Aquí encontrará explicaciones detalladas y referencias para nuestras optimizaciones.
 
 ## Descripción General
