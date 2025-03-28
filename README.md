@@ -1,8 +1,15 @@
 # Secure-Tweaks
 
+### Primeros Pasos
+
+Comience explorando los ajustes y sus explicaciones en nuestra sección dedicada:
+https://github.com/PATSIMA/Secure-Tweaks/tree/main/Win32PrioritySeparation
+
+Aquí encontrará explicaciones detalladas y referencias para nuestras optimizaciones.
+
 ## Descripción General
 
-Secure Tweaks es un kit de herramientas integral de optimización y configuración de seguridad diseñado exclusivamente para los sistemas operativos Windows 10 y Windows 11. Desarrollado para profesionales de TI, administradores de sistemas y usuarios avanzados, este proyecto ofrece un enfoque sofisticado para mejorar el rendimiento, la privacidad y la seguridad del sistema mediante modificaciones de sistema cuidadosamente elaboradas y validadas profesionalmente.
+Secure Tweaks es un kit de herramientas integral de optimización y configuración de seguridad diseñado exclusivamente para los sistemas operativos Windows 10 y Windows 11. Desarrollado para profesionales de TI, administradores de sistemas y usuarios avanzados, este proyecto ofrece un enfoque sofisticado para mejorar el rendimiento, la privacidad y la seguridad del sistema mediante modificaciones cuidadosamente elaboradas y validadas profesionalmente.
 
 ### Características Principales
 
@@ -21,34 +28,33 @@ Secure Tweaks es un kit de herramientas integral de optimización y configuraci�
 - Controles de privacidad mejorados más allá de la configuración estándar de Windows
 - Gestión granular de seguimiento y generación de informes a nivel de sistema
 
-### Metodología
+### Metodología: Nuestro Enfoque Sistemático
 
-Nuestro enfoque para desarrollar Secure Tweaks se basa en un proceso meticuloso y basado en investigación:
+El desarrollo de Secure Tweaks sigue un proceso meticuloso basado en investigación:
 
-1. **Investigación Exhaustiva**: 
+1. **Investigación Exhaustiva**
    - Análisis profundo de la arquitectura de sistemas Windows
    - Revisión integral de vulnerabilidades de seguridad
    - Evaluación de cuellos de botella de rendimiento
 
-2. **Pruebas Rigurosas**:
+2. **Pruebas Rigurosas**
    - Validación en múltiples configuraciones de hardware
    - Verificaciones sistemáticas de compatibilidad
-   - Benchmarking de rendimiento
+   - Análisis comparativo de rendimiento
 
-3. **Validación por Expertos**:
+3. **Validación por Expertos**
    - Revisión por profesionales de ciberseguridad
    - Verificación cruzada de los impactos de modificación
    - Estrategias de optimización revisadas por pares
 
-4. **Documentación Transparente**:
-   - Explicaciones detalladas para cada optimización
+4. **Documentación Transparente**
+   - Explicaciones detalladas para cada optimización del sistema
    - Evaluación clara del impacto
    - Estrategias de mitigación de riesgos potenciales
 
-### ⚠️ Advertencia de Uso Responsable
+### Advertencia de Uso Responsable
 
-**Importante**: Secure Tweaks proporciona modificaciones de sistema potentes que deben implementarse con precaución:
-
+**Importante**: Secure Tweaks proporciona modificaciones de sistema potentes que requieren una implementación cuidadosa:
 - Siempre cree una copia de seguridad completa del sistema antes de realizar cambios
 - Comprenda el propósito y las posibles implicaciones de cada optimización
 - Recomendado para usuarios avanzados y profesionales de TI
@@ -57,7 +63,6 @@ Nuestro enfoque para desarrollar Secure Tweaks se basa en un proceso meticuloso 
 ### Contribuciones de la Comunidad
 
 Creemos en la mejora colaborativa. Las contribuciones son bienvenidas y apreciadas:
-
 - Revise nuestras pautas de contribución exhaustivas
 - Envíe solicitudes de extracción bien documentadas
 - Participe en discusiones y seguimiento de problemas
